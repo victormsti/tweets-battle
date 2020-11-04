@@ -1,7 +1,7 @@
 # tweets-battle
-tweets-battle-app
+tweets-battle-api
 
-App built using:
+API built using:
 
 * Java
 * Spring Boot
